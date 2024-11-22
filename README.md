@@ -52,7 +52,7 @@ https://rutube.ru/video/ffeac2be9ba3235485f21c11ee328e85/
 2.1 архитектура (мультиагентные системы)
 2.2 отображение игрового мира:
 - 2.2.1 https://github.com/s2023alek/Simple-Isometric-Game-Engine
-- 2.2.2 https://github.com/s2023alek/Simple-Isometric-Engine
+- 2.2.2 https://github.com/s2023alek/Simple-Isometric-Engine  
 2.3 стиль и поведение персонажей
 
 
