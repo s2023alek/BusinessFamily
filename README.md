@@ -2,6 +2,10 @@
 
 ## онлайн ММО игра Любимая Семья(аналог зарубежного проекта Social Sims)
 
+1 800 000 пользователей, 80 000 Daily Active Users
+
+![1](https://github.com/s2023alek/BusinessFamily/blob/0e171eb1c8ebaed91a19645cacd91326278d9a44/README/bf111111111111.JPG)
+
 # Содержание:
 1. обзор проекта
 2. описание кода/архитектуры, навигация по коду
@@ -13,6 +17,9 @@
 видеообзор ранней версии игры:  
 https://rutube.ru/video/ffeac2be9ba3235485f21c11ee328e85/
 
+Обзоры игры в СМИ:
+- https://web.archive.org/web/20210416144915/https://vkontaktehit.ru/igra-lubimaya-semiya-v-kontakte.html
+- https://web.archive.org/web/20181108070658/http://socvopros.ru/blog/V_Kontakte_-_Igry/1711.html
 
 ## Функционал:
 
@@ -39,7 +46,14 @@ https://rutube.ru/video/ffeac2be9ba3235485f21c11ee328e85/
 
 Языки программирования: ActionScript 3.0
 
-Фреймворки: архитектура: PureMVC + собственные фреймворки: архитектура (мультиагентные системы), отображение игрового мира, стиль и поведение персонажей
+Фреймворки: архитектура:
+1. PureMVC
+2. собственные фреймворки:
+2.1 архитектура (мультиагентные системы)
+2.2 отображение игрового мира:
+- 2.2.1 https://github.com/s2023alek/Simple-Isometric-Game-Engine
+- 2.2.2 https://github.com/s2023alek/Simple-Isometric-Engine
+2.3 стиль и поведение персонажей
 
 
 ## 2 описание кода/архитектуры, навигация по коду
